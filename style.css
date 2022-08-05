@@ -39,7 +39,7 @@ h3 {
 .userpic {
     display: flex;
     width: 19%;
-    height: 100%;
+    height: 50%;
     webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap;
 }
 
