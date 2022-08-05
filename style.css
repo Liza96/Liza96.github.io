@@ -42,6 +42,7 @@ h3 {
     height: 100%;
     background: no-repeat center center / cover;
     height: 100%;
+    webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap;
 }
 
 .nav ul {
