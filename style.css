@@ -40,8 +40,8 @@ h3 {
     display: flex;
     width: 19%;
     height: 50%;
-    webkit-flex-wrap: 50px;
-    flex-wrap: 50px;
+    webkit-flex-wrap: 100px;
+    flex-wrap: 100px;
 }
 
 .nav ul {
